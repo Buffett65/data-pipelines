@@ -10,7 +10,7 @@
 # %% [markdown]
 # ### Data Validation
 #
-# Validate files against structures in registry - do they pass FMR's 9 validation rules?
-# refer to and run the Jupyter Notebook in SDMX Lab which was provided from SDMX.IO learning resources materials.
+# Validate files against structures in registry - do they pass FMR's 9 validation rules?\
+# refer to and run the demo Jupyter Notebook in SDMX Lab which which was provided from SDMX.IO learning resources materials.
 #
 #

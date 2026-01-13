@@ -11,7 +11,7 @@
 # %% [markdown]
 # ### GET A METADATA REPORT TO DATAFLOW
 #
-# URL to POST a metadata report:  {fmr_url}/ws/secure/sdmx/v2/metadata
+# URL to POST a metadata report:  {fmr_url}/ws/secure/sdmx/v2/metadata\
 # URL to GET a metadata report: {fmr_url}/sdmx/v2/metadata
 #
 # %% (code)
@@ -27,7 +27,7 @@ from requests.auth import HTTPBasicAuth
 endpoint = f"{fmr_url}/sdmx/v2/metadata/metadataset/BIS.SDMXIO/*/*"
 headers = {"Content-Type": "application/json"}
 
-# Retrieve metadatasets from FMR for http://localhost:8080/sdmx/v2/metadata/metadataset 
+# Retrieve metadatasets from FMR for http://localhost:8080/sdmx/v2/metadata/metadataset \
 # ie. for BIS.SDMXIO/*/*
 #  
 if sdmx_lab: #auth

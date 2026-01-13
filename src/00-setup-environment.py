@@ -14,13 +14,9 @@
 
 # %%  # code cell
 # Clone the repo
-#PROD
-# #!git clone https://github.com/HMS-Analytical-Software/hms-sdmx-lab-notebooks.git
-# #%cd hms-sdmx-lab-notebooks/notebooks/data-pipelines
-#DEV
-!git clone https://github.com/Buffett65/data-pipelines.git
-%cd data-pipelines
-root_dir="/content/data-pipelines"
+#!git clone https://github.com/HMS-Analytical-Software/hms-sdmx-lab-notebooks.git
+#%cd hms-sdmx-lab-notebooks/notebooks/data-pipelines
+root_dir="/content/hms-sdmx-lab-notebooks/notebooks/data-pipelines"
 
 # Install dependencies
 !pip install -r requirements.txt

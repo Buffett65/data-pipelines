@@ -19,15 +19,15 @@
 # into a sequence of tasks guided by the content of the metadata report attached to each dataflow within
 # the Data Pipelines Category Scheme.
 #
-# **Data Pipeline metadata:**
-# Category Scheme: A tree representing data pipeline process/workflow.
-#    [] Dataflows are attached to the tree IFF they are to be processed as a part of the workflow
-#    [] Annotation attached to Category Scheme to indicate the associated Metadataflow
-#    [] A metadata report is created for each dataflow. It has the 'process settings' for the dataflow and is attached to the dataflow
+# **Data Pipeline metadata:**\
+# Category Scheme: A tree representing data pipeline process/workflow.\
+#    [] Dataflows are attached to the tree IFF they are to be processed as a part of the workflow\
+#    [] Annotation attached to Category Scheme to indicate the associated Metadataflow\
+#    [] A metadata report is created for each dataflow. It has the 'process settings' for the dataflow and is attached to the dataflow\
 #
-# Processing: 
-#    Events trigger the pipeline. 
-#    The category scheme is traversed and each dataflow is processed according to the attached metadataflow.
+# Processing: \
+#    Events trigger the pipeline. \
+#    The category scheme is traversed and each dataflow is processed according to the attached metadataflow.\
 #
 # See https://py.sdmx.io section on 'processes'
 #

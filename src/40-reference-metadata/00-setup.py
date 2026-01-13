@@ -16,18 +16,18 @@
 # The essence of the refernce metadata section is to demonstrate the elements to be created for a simple data pipeline
 # system controlled by reference metadata (loosely coupled business logic, versioned, ...). In brief, metadata driven processes.
 #
-# **Reference Metadata**
-# Category Scheme: A tree representing data pipeline process/workflow.
-#    [] Dataflows are attached to the tree IFF they are to be processed as a part of the workflow
-#    [] Annotation attached to Category Scheme to indicate the associated Metadataflow
-#    [] A metadata report is created for each dataflow. It has the 'process settings' for the dataflow and is attached to the dataflow
-# Codelists: For decision trees
-# Metadata Structure Definition: 
-# Metadataflows: One per process
-# Metadatasets: One per dataflow. The process settings for this dataflow.
-# Provision Agreements: according to needs of process workflow
+# **Reference Metadata**\
+# Category Scheme: A tree representing data pipeline process/workflow.\
+#    [] Dataflows are attached to the tree IFF they are to be processed as a part of the workflow\
+#    [] Annotation attached to Category Scheme to indicate the associated Metadataflow\
+#    [] A metadata report is created for each dataflow. It has the 'process settings' for the dataflow and is attached to the dataflow\
+# Codelists: For decision trees\
+# Metadata Structure Definition: \
+# Metadataflows: One per process\
+# Metadatasets: One per dataflow. The process settings for this dataflow.\
+# Provision Agreements: according to needs of process workflow\
 #
-# See artifacts in FMR (after AllStructures.json is loaded)
+# See artifacts in FMR (after AllStructures.json is loaded)\
 # See https://py.sdmx.io section on 'processes'
 #
 # %% [markdown]

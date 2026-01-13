@@ -10,4 +10,4 @@
 # # %% [markdown]
 # ### Transcoding with Verification
 #
-# Refer to SDMX.IO learning resources materials. NB: need adaptation to run in SDMX LAB.
+# Refer to SDMX.IO learning resources materials. NB: needs adaptation to run in SDMX LAB.

@@ -12,5 +12,5 @@
 #
 # Recode files - remap and change coding, change shape using Structure Maps and Representation Maps.
 #
-# Refer to SDMX.IO learning resources materials. NB: need adaptation to run in SDMX LAB.
+# Refer to SDMX.IO learning resources materials. NB: needs adaptation to run in SDMX LAB.
 #

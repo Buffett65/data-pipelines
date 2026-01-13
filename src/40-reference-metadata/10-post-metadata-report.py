@@ -10,7 +10,7 @@
 # %% [markdown]
 # ### POST A METADATA REPORT TO DATAFLOW
 #
-# URL to POST a metadata report:  {fmr_url}/ws/secure/sdmx/v2/metadata
+# URL to POST a metadata report:  {fmr_url}/ws/secure/sdmx/v2/metadata\
 # URL to GET a metadata report: {fmr_url}/sdmx/v2/metadata
 # %% (code)
 from pathlib import Path
